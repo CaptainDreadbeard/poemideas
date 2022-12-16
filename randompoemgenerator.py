@@ -1,4 +1,4 @@
-"""Random poetry line generator, by Robin Bolin
+"""Random poetry line generator, by Robin 
 A random generator of sweet lines of cringey poetry
 
 Tags: beginner, random, poem, word"""
