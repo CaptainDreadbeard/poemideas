@@ -1,7 +1,7 @@
 """Random poetry line generator, by Robin 
 A random generator of sweet lines of cringey poetry
 
-Tags: beginner, random, poem, word"""
+Tags: beginner, random, poem, funny, word"""
 
 import random
 
@@ -10,7 +10,7 @@ import random
 DESCRIPTION = ['presence', 'gait', 'smile']
 POSSESSIVE_PRONOUNS = ['Her', 'Their']
 PERSONAL_PRONOUNS = ['She', 'They']
-FLOWERS = ['Roses', 'Tulips', 'Daisys', 'Indian Paintbrushes', 'Pussywillows', 'Carnations', 'Gardenias', 'Lillies', 'Hyacinths', 'Chrysanthemums', 'Daffodil', 'Sunflower']
+FLOWERS = ['Roses', 'Tulips', 'Daisys', 'Indian Paintbrushes', 'Pussywillows', 'Carnations', 'Gardenias', 'Lillies', 'Hyacinths', 'Chrysanthemums', 'Daffodil', 'Sunflowers']
 OBJECTS = ['A fine set of pearls', 'like they were woven by Rumpelstiltskin', 'bars of gold', 'tears of platinum', 'fine cedar', 'precious metals', 'a four-leaf clover', 'ebony', 'ivory', 'emerald', 'the finest wine', 'a vintage omega', 'crystal clear water', 'honeycombs']
 BODY_PARTS = ['eyes', 'hair', 'skin', 'hands', 'a chest', 'teeth', 'jaw', 'nose', 'cheeks', 'curves', 'belly']
 ALLITERATION = ['pretty pristine', 'greatly glowing', 'lovingly luxurious', 'originally opalescent', 'energetically invigorating', 'succulently sweet', 'gorgeously glowing', 'heavenly hearth']
