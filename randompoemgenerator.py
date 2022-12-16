@@ -13,7 +13,7 @@ PERSONAL_PRONOUNS = ['She', 'They']
 FLOWERS = ['Roses', 'Tulips', 'Daisys', 'Indian Paintbrushes', 'Pussywillows', 'Carnations', 'Gardenias', 'Lillies', 'Hyacinths', 'Chrysanthemums', 'Daffodil', 'Sunflower']
 OBJECTS = ['A fine set of pearls', 'like they were woven by Rumpelstiltskin', 'bars of gold', 'tears of platinum', 'fine cedar', 'precious metals', 'a four-leaf clover', 'ebony', 'ivory', 'emerald', 'the finest wine', 'a vintage omega', 'crystal clear water', 'honeycombs']
 BODY_PARTS = ['eyes', 'hair', 'skin', 'hands', 'a chest', 'teeth', 'jaw', 'nose', 'cheeks', 'curves', 'belly']
-ALLITERATION = ['pretty pristine', 'greatly glowing', 'lovingly luxurious', 'originally opalescent', 'energetically envigorating', 'succulently sweet', 'gorgeously glowing', 'heavenly hearth']
+ALLITERATION = ['pretty pristine', 'greatly glowing', 'lovingly luxurious', 'originally opalescent', 'energetically invigorating', 'succulently sweet', 'gorgeously glowing', 'heavenly hearth']
 
 def main():
     print('Cringey Poem Generator!')
