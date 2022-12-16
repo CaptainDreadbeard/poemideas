@@ -17,7 +17,7 @@ ALLITERATION = ['pretty pristine', 'greatly glowing', 'lovingly luxurious', 'ori
 
 def main():
     print('Cringey Poem Generator!')
-    print('By Robin Bolin')
+    print('By Robin')
     print()
 
     print('How to woo their feelings with poetic inspiration')
